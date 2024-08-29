@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Optimization of Battery Cycle and Battery Life Prediction",
+      "imageSrc": "projects/battery.png",
+      "description": "Developed a predictive model using Regression and Neural Networks to forecast battery cycle life and identify key factors, enhancing accuracy through hyper-parameter tuning.",
+      "skills": ["Python", "MATLAB", "Neural Network", "Regression", "Optimization"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Samarthya2001/Battery-Discharge-Capacity-Project"
+    },
+    {
+      "title": "Agricultural Plant Disease Classifier",
+      "imageSrc": "projects/plant.png",
+      "description": "Implemented a CNN model for plant leaf disease prediction with 96% accuracy and developed a Streamlit app for user-friendly image uploads and predictions.",
+      "skills": ["CNN", "Streamlit", "Data Augamentation", "Image Classification", "Python", "Tensorflow","Kaggle"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Text Summarizer using Google Pegasus LLM Model",
+      "imageSrc": "projects/text.png",
+      "description": "Developed a text summarizer application using advanced NLP techniques for accurate and relevant summarization. Optimized and fine-tuned the model to ensure high-quality, coherent summaries suitable for practical use.",
+      "skills": ["LLM", "Google Peaguses", "Tensorflow"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Predicting Fire Spread with AI: Enhancing Emergency Response in Building Fires",
+      "imageSrc": "projects/fire.png",
+      "description": "Developing 3D AutoCAD models and used PyroSim for fire simulation, implementing a GAN model for fire prediction and generating thermal profiles for enhanced safety assessment.",
+      "skills": ["PyroSim", "AutoCAD", "GAN", "Tensorflow", "Data Augamentation"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

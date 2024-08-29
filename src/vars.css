@@ -1,0 +1,13 @@
+/* vars.css allows the user to amke a seperate css module for fonts and tools to be used in other files*/
+
+:root{
+    /* colours*/
+    --color-text: #fff;
+    --color-primary: #576cdc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+
+    /*fonts*/
+    --font-roboto: "Roboto";
+}

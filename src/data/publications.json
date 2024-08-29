@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Publication 1",
+        "description": "Brief description of Publication 1",
+        "skills": ["Skill1", "Skill2"],
+        "link": "https://example.com/publication-1"
+    },
+    {
+        "title": "Publication 2",
+        "description": "Brief description of Publication 2",
+        "skills": ["Skill3", "Skill4"],
+        "link": "https://example.com/publication-2"
+    }
+]

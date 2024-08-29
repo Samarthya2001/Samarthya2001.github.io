@@ -1,0 +1,66 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Tensorflow",
+      "imageSrc": "skills/tensorflow.png"
+    },
+    {
+      "title": "LLM",
+      "imageSrc": "skills/llm.png"
+    },
+    {
+      "title": "Data Analysis",
+      "imageSrc": "skills/data_analysis.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/postgresql.png"
+    },
+    {
+      "title": "Tableau",
+      "imageSrc": "skills/tableau.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "ReactJS",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "AutoCAD",
+      "imageSrc": "skills/autocad.png"
+    },
+    {
+      "title": "PyroSim",
+      "imageSrc": "skills/pyrosim.png"
+    },
+    {
+      "title": "Ultimake Cura",
+      "imageSrc": "skills/ultimakercura.png"
+    },
+    {
+      "title": "Fusion 360",
+      "imageSrc": "skills/fusion360.png"
+    },
+    {
+      "title": "SolidWorks",
+      "imageSrc": "skills/solidworks.png"
+    }
+  ]

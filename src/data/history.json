@@ -1,0 +1,53 @@
+[
+    {
+      "role": "ML and Patent Intern",
+      "organisation": "HyScalar Technologies Pvt. Ltd.",
+      "startDate": "May, 2024",
+      "endDate": "Present",
+      "experiences": ["Developed patent for AI-assisted diagnostics in electric vehicles", 
+      "Developing patent for quantum computer setups with graphene qubits"],
+      "imageSrc": "history/hyscaler.png"
+    },
+    {
+      "role": "ML Intern",
+      "organisation": "ElectroGati Technologies Pvt Ltd",
+      "startDate": "May, 2024",
+      "endDate": "July, 2024",
+      "experiences": ["Achieved 95% accuracy in predicting battery cycle life by developing a new dataset with MATLAB and Excel", 
+      "Focused on voltage-derived features from EV batteries without using experimental features"],
+      "imageSrc": "history/ElectroGati.png"
+    },
+    {
+      "role": "ML Research Intern",
+      "organisation": "ElectroGati Technologies Pvt Ltd",
+      "startDate": "May, 2023",
+      "endDate": "July, 2023",
+      "experiences": [
+        "Enhanced model accuracy from 90% to 95% by developing and training Elastic Net and Linear Regression models",
+        "Both derivable and experimental features were utilized to improve battery performance"
+      ],
+      "imageSrc": "history/ElectroGati.png"
+    },
+    {
+      "role": "Full Stack Web-D Intern",
+      "organisation": "In-Time Tec",
+      "startDate": "May, 2023",
+      "endDate": "July, 2023",
+      "experiences": [
+        "Developed a responsive data analysis webpage using Python Flask API",
+        "Utilized tech stacks including ReactJS, Express, and various APIs"
+      ],
+      "imageSrc": "history/intimetec.png"
+    },
+    {
+      "role": "Research Intern",
+      "organisation": "Tandon School of Engineering, New York University(NYU)",
+      "startDate": "May, 2022",
+      "endDate": "July, 2022",
+      "experiences": [
+        "Developed a design infringement detection system for STL files",
+        "Implemented encryption techniques to protect 3-D CAD files from malicious attacks"
+      ],
+      "imageSrc": "history/nyu.png"
+    }
+  ]
